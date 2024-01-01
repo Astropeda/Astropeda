@@ -2,6 +2,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Astropeda&theme=onedark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 <p align="center"> 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Astropeda&theme=onedark&hide_border=true&card_width=600)](https://git.io/streak-stats)
+<p align="center"><img src="https://profile-counter.glitch.me/{Astropeda}/count.svg" alt="Astropeda :: Visitor's Count" /></p>
+
+<p align="center"> 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a aria-label="Join our chats" href="https://chat.whatsapp.com/KFe2GEMBZ9eI1bpNVotZOW" target="_blank">
