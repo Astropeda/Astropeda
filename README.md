@@ -1,8 +1,8 @@
 # Astropeda
 
-![Matrix Code](https://cdn.pixabay.com/photo/2014/05/27/23/32/matrix-356024_1280.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=4EF712&center=true&random=false&width=435&lines=ASTROPEDA;WE%2C+OUR%2C+THEY+%26+THEM;CREATE+FUN;PROJECTS;AND+FREE+SOFTWARES)](https://git.io/typing-svg)
 
-Welcome to the **Astropeda** GitHub Organization! 🌌
+WE ARE *ASTROPEDA*
 
 We specialize in creating innovative WhatsApp bots that transform communication experiences. Dive into our repositories to explore the digital cosmos we're crafting!
 
