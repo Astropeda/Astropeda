@@ -1,12 +1,12 @@
 # Astropeda
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=4EF712&center=true&random=false&width=435&lines=ASTROPEDA;WE%2C+OUR%2C+THEY+%26+THEM;CREATE+FUN;PROJECTS;AND+FREE+SOFTWARES)](https://git.io/typing-svg)
+</p>
 
-WE ARE *ASTROPEDA*
+[![GitHub Streak](https://streak-stats.demolab.com?user=Astropeda&theme=onedark)](https://git.io/streak-stats)
 
-We specialize in creating innovative WhatsApp bots that transform communication experiences. Dive into our repositories to explore the digital cosmos we're crafting!
 
-## Our Mission
+## Our Goal
 
 In a digital universe filled with ordinary bots, **Astropeda** stands out by creating extraordinary WhatsApp bots. Our bots are designed to be smart, user-friendly, and highly customizable, perfect for businesses and individuals alike.
 
