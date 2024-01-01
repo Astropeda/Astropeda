@@ -1,8 +1,9 @@
 # Astropeda
+
+
 <p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=4EF712&center=true&random=false&width=435&lines=ASTROPEDA;WE%2C+OUR%2C+THEY+%26+THEM;CREATE+FUN;PROJECTS;AND+FREE+SOFTWARES)](https://git.io/typing-svg)
 </p>
-##
 
 <p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Astropeda&theme=onedark)](https://git.io/streak-stats)
