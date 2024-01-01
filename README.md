@@ -7,8 +7,8 @@
 </p>
 
 <p align="center"> 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV" target="_blank">
-   <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a aria-label="Contact" href="https:/wa.me/+23408039607375" target="_blank">
+   <img alt="whatsapp" src="https://img.shields.io/badge/Contact Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a aria-label="Join our chats" href="https://chat.whatsapp.com/KFe2GEMBZ9eI1bpNVotZOW" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Public Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
