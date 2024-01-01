@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Astropeda&theme=onedark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 <p align="center"> 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Astropeda&theme=onedark&hide_border=true&card_width=600)](https://git.io/streak-stats)
+ <p> [![GitHub Streak](https://streak-stats.demolab.com?user=Astropeda&theme=onedark&hide_border=true&card_width=600)](https://git.io/streak-stats) </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Astropeda}/count.svg" alt="Astropeda :: Visitor's Count" /></p>
 
 <p align="center"> 
